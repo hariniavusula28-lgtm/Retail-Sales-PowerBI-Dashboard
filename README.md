@@ -72,3 +72,6 @@ This repository contains the Power BI files created during the project:
 - `Level_3.pbix` — Basic visualizations
 - `Level_4.pbix` — Interactivity and insights
 - `Level_5.pbix` — Final dashboard
+## Project Status
+
+Completed as part of a Power BI internship project.
