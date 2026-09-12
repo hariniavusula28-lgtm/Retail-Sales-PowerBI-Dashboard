@@ -75,3 +75,6 @@ This repository contains the Power BI files created during the project:
 ## Project Status
 
 Completed as part of a Power BI internship project.
+## 📷 Dashboard Preview
+
+![Retail Sales Performance Dashboard](dashboard.png)
